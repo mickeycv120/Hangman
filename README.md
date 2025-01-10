@@ -45,7 +45,7 @@ Este juego no requiere librerías externas, por lo que no es necesario instalar 
 
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
     ```bash
-    git clone https://github.com/tu_usuario/nombre-del-repositorio.git
+    git clone https://github.com/mickeycv120/Hangman.git
     ```
 2. Navega a la carpeta del proyecto:
     ```bash
